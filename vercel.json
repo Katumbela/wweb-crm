@@ -1,5 +1,5 @@
 {
-    "devCommand": "yarn dev",
+    "devCommand": "yarn start",
     "builds": [
       {
         "src": "src/server.js",
